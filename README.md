@@ -25,8 +25,12 @@
 
   # expand width
    
-   Scales only the width keeping the kind of zoomed in look and fell but lets you see more on the sides 🤝
-   
+   Scales only the width keeping the kind of zoomed in look and fell but lets you see more on the sides 🤝  
+   <br />
+   Potential Blackbars - if you don't have enough width to keep the aspect ratio.  
+   16 : 9 -> black bars  
+   21 : 9 -> no black bars  
+   <br />
    
   ![20221109212353_1](https://user-images.githubusercontent.com/41547570/200939733-06890f22-91e3-43e4-90d5-adacd8bf7d92.jpg)
   ![20221109212442_1](https://user-images.githubusercontent.com/41547570/200939737-f2f87e41-25e2-44ea-8a8d-5a97b5a0923e.jpg)
