@@ -1,5 +1,4 @@
-<details>
- <summary>Multiple Resolutions Mod</summary>
+# Multiple Resolutions Mod
   
   <br />
   
@@ -7,7 +6,7 @@
   
   Keeps everything else vanilla
   
-  # default
+  ## default
    
    Keeps the default 1080p 16:9 resolution
   
@@ -15,7 +14,7 @@
   ![20221109212741_1](https://user-images.githubusercontent.com/41547570/200939590-0e3374dc-2883-4aa7-be47-02837875b396.jpg)
   ![20221109212747_1](https://user-images.githubusercontent.com/41547570/200939594-28fb7a54-b006-4bec-b073-c81e15c3a537.jpg)
 
-  # expand
+  ## expand
    
    Scales the width and the height to viewport - so you see more in all directions 👍
    
@@ -23,7 +22,7 @@
   ![20221109212528_1](https://user-images.githubusercontent.com/41547570/200939663-474c9193-f84e-45d4-a257-8c7d3a6676d0.jpg)
   ![20221109212635_1](https://user-images.githubusercontent.com/41547570/200939665-620673f6-c7ec-4d0e-98ed-0afb557e808c.jpg)
 
-  # expand width
+  ## expand width
    
    Scales only the width keeping the kind of zoomed in look and fell but lets you see more on the sides 🤝  
    <br />
