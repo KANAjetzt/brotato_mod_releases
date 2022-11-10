@@ -26,7 +26,7 @@
    
    Scales only the width keeping the kind of zoomed in look and fell but lets you see more on the sides 🤝  
    <br />
-   Potential Blackbars - if you don't have enough width to keep the aspect ratio.  
+   Potential Blackbars - if you don't have enough width.  
    2560 x 1440 -> black bars  
    3440 x 1440 -> no black bars  
    <br />
