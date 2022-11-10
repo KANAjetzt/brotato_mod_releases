@@ -28,7 +28,7 @@
    <br />
    Potential Blackbars - if you don't have enough width to keep the aspect ratio.  
    2560 x 1440 -> black bars  
-   4330 x 1440 -> no black bars  
+   3440 x 1440 -> no black bars  
    <br />
    
   ![20221109212353_1](https://user-images.githubusercontent.com/41547570/200939733-06890f22-91e3-43e4-90d5-adacd8bf7d92.jpg)
