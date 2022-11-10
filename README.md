@@ -1,7 +1,8 @@
 # Multiple Resolutions Mod
 
 [![Github All Releases](https://img.shields.io/github/downloads/KANAJetzt/brotato_mod_releases/total?color=%2310ad0e&style=flat-square)]()
-[![Github Release Date](https://img.shields.io/github/release-date/KANAJetzt/brotato_mod_releases?style=flat-square)]()
+[![Github Release Date](https://img.shields.io/github/release-date/KANAJetzt/brotato_mod_releases?style=flat-square)]()  
+Tested with Game Version: 0.6.0.7
   
   <br />
   
