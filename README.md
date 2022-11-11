@@ -38,5 +38,5 @@ Tested with Game Version: 0.6.0.7
   ![20221109212353_1](https://user-images.githubusercontent.com/41547570/200939733-06890f22-91e3-43e4-90d5-adacd8bf7d92.jpg)
   ![20221109212442_1](https://user-images.githubusercontent.com/41547570/200939737-f2f87e41-25e2-44ea-8a8d-5a97b5a0923e.jpg)
 
-
-</details>
+*All required changes to the game files are documented here:*  
+*[Notion Document](https://www.notion.so/kanajetzt/Edits-required-fbddd256a36c400f968f38a0ac6a21b0)*
