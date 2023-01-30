@@ -1,3 +1,24 @@
+
+
+<div align="center">
+<h1>
+All new releases for this mod can be found in the <a href="https://github.com/BrotatoMods/Brotato-MultiRes">Brotato Mods Repo</a>
+</h1>
+
+<br />
+
+<a href="https://github.com/BrotatoMods/Brotato-MultiRes">
+  <img alt="Brotato Mods Repo Logo" src="https://avatars.githubusercontent.com/u/120222733?s=200&v=4" />
+</a>
+
+</div>
+
+<br />
+<br />
+
+<details>
+ <summary>Old Readme</summary>
+ 
 # Multiple Resolutions Mod
 
 [![Github All Releases](https://img.shields.io/github/downloads/KANAJetzt/brotato_mod_releases/total?color=%2310ad0e&style=flat-square)]()
@@ -40,3 +61,6 @@ Tested with Game Version: 0.6.0.7
 
 *All required changes to the game files are documented here:*  
 *[Notion Document](https://www.notion.so/kanajetzt/Edits-required-fbddd256a36c400f968f38a0ac6a21b0)*
+
+</details>
+
